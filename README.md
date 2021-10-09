@@ -1,11 +1,11 @@
 # BeautySaloon
 NLW - Origin Six
 <p align="center">
-  <img alt="BeautySaloon" src="./assets/tela01.png" width="920" heigth="518" />
-  <img alt="BeautySaloon" src="./assets/tela02.png" width="920" heigth="518" />
-  <img alt="BeautySaloon" src="./assets/tela03.png" width="920" heigth="518" />
-  <img alt="BeautySaloon" src="./assets/tela04.png" width="920" heigth="518" />
-  <img alt="BeautySaloon" src="./assets/tela05.png" width="920" heigth="518" />
+  <img alt="BeautySaloon" src="./tela01.png" width="920" heigth="518" />
+  <img alt="BeautySaloon" src="./tela02.png" width="920" heigth="518" />
+  <img alt="BeautySaloon" src="./tela03.png" width="920" heigth="518" />
+  <img alt="BeautySaloon" src="./tela04.png" width="920" heigth="518" />
+  <img alt="BeautySaloon" src="./tela05.png" width="920" heigth="518" />
 
 
 </p>
